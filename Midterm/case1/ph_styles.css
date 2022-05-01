@@ -61,7 +61,11 @@ address {
    padding-bottom: 10px;
 }
 /* Navigation Styles */
-
+nav a {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
 
 
 
