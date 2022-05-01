@@ -78,7 +78,12 @@ nav a:hover, nav a:active {
    background-color: hsl(0, 0%, 42%, 0.7);
 }
 /* Section Styles */
-
+section.playbill h1 {
+   margin: 0px;
+   padding: 20px, 0px, 10px, 20px;
+   font-weight: normal;
+   font-size: 3em;
+}
 
 
 
