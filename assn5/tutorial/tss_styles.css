@@ -45,6 +45,7 @@ h2 {
 
 h1, h2 {
    font-family: Quicksand, Verdan, Geneva, sans-serif;
+   letter-spacing: 0.1em;
 }
 
 article#about_tss h1 {
@@ -77,6 +78,10 @@ aside blockquote {
 /* Navigation Styles */	
 nav {
    font-size: 0.8em;
+}
+
+nav > ul {
+   line-height: 2em;
 }
 
 
