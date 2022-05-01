@@ -67,7 +67,11 @@ nav a {
    font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-
+nav a:link, nav:visited {
+   color: white;
+   text-decoration: none;
+   background-color: hsla(0, 0%, 42%, 0.4);
+}
 
 /* Section Styles */
 
