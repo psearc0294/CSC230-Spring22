@@ -116,4 +116,8 @@ section#play4 h1 {
 
 
 /* Description List Styles */
-
+dt {
+   color: hsla(0, 0%, 0%, 0.4);
+   font-weight: bold;
+   font-size: 1,3em;
+}
