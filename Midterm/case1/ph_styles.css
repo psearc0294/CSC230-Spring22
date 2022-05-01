@@ -52,6 +52,14 @@ body > p {
    text-align: center;
    font-size: 1.1em;
 }
+
+address {
+   font-style: normal;
+   text-align: center;
+   font-size: 0.9em;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
 /* Navigation Styles */
 
 
