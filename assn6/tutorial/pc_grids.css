@@ -16,6 +16,7 @@
 
 body {
    display: grid;
+   grid-template-columns: 2fr 1fr;
 }
 
 
@@ -24,6 +25,7 @@ body {
 
 section {
    display: grid;
+   grid-template-columns: repeat(2, 1fr);
 }
 
 
