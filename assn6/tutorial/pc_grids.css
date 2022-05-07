@@ -17,7 +17,12 @@
 body {
    display: grid;
    grid-template-columns: 2fr 1fr;
-}
+   grid-template-areas: "header   header"
+                        "intro    faq"   
+                        "articles faq"
+                        "footer   footer";
+         
+}                       
 
 body > header {
    grid-row: 1;
