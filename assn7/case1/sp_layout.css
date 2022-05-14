@@ -28,6 +28,9 @@ body {
    min-width: 640px;
 }
 
+img {
+   display: block;
+}
 
 /* Row Styles */
 
