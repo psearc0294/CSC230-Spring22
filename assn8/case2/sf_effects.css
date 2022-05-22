@@ -28,6 +28,9 @@ body > header nav.tabs {
    background-size: cover;
 }
 
+body > header nav.tabs li {
+   transform: perspective(50px) rotateX(20deg);
+}
 
 /* Left Section Styles */
 
