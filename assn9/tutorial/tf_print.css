@@ -97,6 +97,11 @@ article:nth-of-type(n+2) {
    page-break-before: always;
 }
 
+p {
+   orphans: 3;
+   widows: 3;
+}
+
 
 	
 
