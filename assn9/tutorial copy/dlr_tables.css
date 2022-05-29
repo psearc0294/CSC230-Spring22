@@ -18,13 +18,14 @@
 table.schedule {
    background: white;
    border: 10px outset rgb(153, 0, 153);
+   border-collapse: collapse;
    font-size: 0.75em;
    width: 100%;
 }
 
 /* Table Cell Styles */
 
-table.scheduleth, table.schedule td {
+table.schedule th, table.schedule td {
    border: 1px solid gray;
 }
 
