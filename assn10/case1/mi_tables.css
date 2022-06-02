@@ -59,7 +59,10 @@ thead tr:first-of-type th:first-of-type {
    font-size: 2em;
 }
 
-
+thead tr:first-of-type th:not(:first-of-type) {
+   background: transparent;
+   color: black;
+}
 
 
 
