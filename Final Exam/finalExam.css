@@ -6,3 +6,42 @@ Author: Peyton Searcy
 Date: 6/7/2022
 Stylesheet for final exam project*/
 
+
+/*Body Styles*/
+
+body {
+    font-style: Verdana;
+    color: black;
+    font-size: 16pt;
+    width: 85%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+/*Header Styles*/
+
+header h1 {
+    font-size: 36pt;
+    margin: 35px 0px 0px 0px;
+    padding: 15px 0px 0px 15px;
+    background-color: rgb(228, 242, 136);
+}
+
+header h3 {
+    font-size: 24 pts;
+    margin: 0px;
+    padding: 0px 0px 15px 15px;
+    background-color: rgb(228, 242, 136);
+}
+
+/* Nav Styles */
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
